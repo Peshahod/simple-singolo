@@ -1,1 +1,1 @@
-https://peshahod.github.io/simple-singolo/
+https://peshahod.github.io/simple-singolo/index.html
