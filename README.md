@@ -1,2 +1,1 @@
-# simple-singolo
-simple-singolo
+https://peshahod.github.io/simple-singolo/
